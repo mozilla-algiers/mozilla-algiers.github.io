@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(241,243,245);
+}
+.join-us{
+    background-color: rgb(114,200,80);
+    color: white;
+    font-weight: bold;               
+}
+.nav{
+    margin-right: 0px;
+}
+nav{            
+    margin-top: 10px;
+}
+.line{
+    border-bottom: 2px dashed rgb(157,167,175);
+    height: 40px; 
+}
+.member-container >div{
+    width: 90px;
+    height: 90px;
+    border-radius: 45px;
+    border: 5px solid rgb(129,198,232);
+}
+.member-container img{
+    border-radius: 40px;
+    border: 4px solid white;
+}
+
+h3{
+    text-align: center;
+}
+.navbar-default .navbar-nav > li > a{
+    font-size: 10px;
+}
+.navbar-brand{
+	padding:0px;
+	padding-left:10px
+}
